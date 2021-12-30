@@ -1,6 +1,6 @@
 # Misilelab license v1.6
 
-Author information : Poggychat server by Misilelaboratory
+Author information : Sample by Misilelaboratory
 
 ## derivative works condition
 
