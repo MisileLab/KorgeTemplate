@@ -14,7 +14,7 @@ buildscript {
         maven { url = uri("https://plugins.gradle.org/m2/") }
     }
     dependencies {
-        classpath("com.soywiz.korlibs.korge.plugins:korge-gradle-plugin:2.3.3")
+        classpath("com.soywiz.korlibs.korge.plugins:korge-gradle-plugin:2.4.10")
         classpath("com.soywiz.korlibs.korau:korau:2.4.10")
     }
 }
