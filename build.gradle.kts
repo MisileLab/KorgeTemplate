@@ -22,7 +22,7 @@ buildscript {
 apply<com.soywiz.korge.gradle.KorgeGradlePlugin>()
 
 korge {
-    id = "com.chizstudio.misilelaboratory.sample"
+    id = "xyz.misilelaboratory.sample"
     targetJvm()
     targetDesktop()
     targetIos()
