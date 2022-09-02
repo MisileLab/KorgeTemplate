@@ -15,7 +15,7 @@ buildscript {
     }
     dependencies {
         classpath("com.soywiz.korlibs.korge.plugins:korge-gradle-plugin:3.0.1")
-        classpath("com.soywiz.korlibs.korau:korau:3.0.0")
+        classpath("com.soywiz.korlibs.korau:korau:3.0.1")
     }
 }
 
